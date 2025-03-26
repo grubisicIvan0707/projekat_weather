@@ -1,0 +1,23 @@
+# NiFi
+nifi_conf/
+nifi-data/
+nifi-lib/
+nifi_logs/
+*.flow.xml.gz
+
+# Kafka
+kafka-data/data/
+kafka-data/config/
+
+# PostgreSQL
+postgres_data/
+
+# Airflow
+airflow/logs/
+
+# Backup fajlovi
+docker-backup.tar.gz
+
+# Python cache
+__pycache__/
+*.pyc

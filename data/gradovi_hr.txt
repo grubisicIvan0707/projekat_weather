@@ -1,0 +1,20 @@
+Zagreb,Croatia
+Split,Croatia
+Rijeka,Croatia
+Osijek,Croatia
+Zadar,Croatia
+Pula,Croatia
+Slavonski Brod,Croatia
+Karlovac,Croatia
+Varaždin,Croatia
+Šibenik,Croatia
+Dubrovnik,Croatia
+Bjelovar,Croatia
+Sisak,Croatia
+Vinkovci,Croatia
+Vukovar,Croatia
+Čakovec,Croatia
+Samobor,Croatia
+Petrinja,Croatia
+Knin,Croatia
+Krapina,Croatia

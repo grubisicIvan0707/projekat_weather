@@ -1,0 +1,34 @@
+{
+  "type": "kafka",
+  "spec": {
+    "dataSource": "weather_data",
+    "parser": {
+      "type": "json",
+      "parseSpec": {
+        "timestampSpec": {
+          "column": "timestamp",
+          "format": "auto"
+        },
+        "dimensionsSpec": {
+          "dimensions": ["city", "temperature", "humidity"]
+        },
+        "columns": ["timestamp", "city", "temperature", "humidity"]
+      }
+    },
+    "ioConfig": {
+      "type": "kafka",
+      "topic": "weather-topic",
+      "consumerProperties": {
+        "bootstrap.servers": "kafka1:9092",
+        "group.id": "weather-consumer-group"
+      },
+      "taskCount": 1,
+      "replicas": 1
+    },
+    "tuningConfig": {
+      "type": "index",
+      "maxRowsPerSegment": 50000,
+      "maxTotalRows": 1000000
+    }
+  }
+}

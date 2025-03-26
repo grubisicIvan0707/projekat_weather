@@ -1,0 +1,41 @@
+Belgrade,Serbia RS
+Novi Sad,Serbia
+Nis,Serbia
+Kragujevac,Serbia
+Subotica,Serbia
+Zrenjanin,Serbia
+Pancevo,Serbia
+Krusevac,Serbia
+Leskovac,Serbia
+Negotin,Serbia East
+Sarajevo,Bosnia and Herzegovina
+Banja Luka,Bosnia and Herzegovina
+Tuzla,Bosnia and Herzegovina
+Zenica,Bosnia and Herzegovina
+Mostar,Bosnia and Herzegovina
+Bijeljina,Bosnia and Herzegovina
+Brcko,Bosnia and Herzegovina
+Doboj,Bosnia and Herzegovina
+Cazin,Bosnia and Herzegovina
+Trebinje,Bosnia and Herzegovina
+Zagreb,Croatia
+Split,Croatia
+Rijeka,Croatia
+Osijek,Croatia
+Zadar,Croatia
+Slavonski Brod,Croatia
+Pula,Croatia
+Sibenik,Croatia
+Karlovac,Croatia
+Varazdin,Croatia
+Skopje,North Macedonia
+Bitola,North Macedonia
+Kumanovo,North Macedonia
+Prilep,North Macedonia
+Tetovo,North Macedonia
+Veles,North Macedonia
+Ohrid,North Macedonia
+Stip,North Macedonia
+Gostivar,North Macedonia
+Strumica,North Macedonia
+

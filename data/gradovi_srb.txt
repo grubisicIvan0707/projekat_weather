@@ -1,0 +1,20 @@
+Belgrade,Serbia
+Cacak,Serbia
+Kragujevac,Serbia
+Kraljevo,Serbia
+Krusevac,Serbia
+Leskovac,Serbia
+Negotin,Serbia
+Nis,Serbia
+Novi Pazar,Serbia
+Novi Sad,Serbia
+Pancevo,Serbia
+Pozarevac,Serbia
+Sabac,Serbia
+Smederevo,Serbia
+Sombor,Serbia
+Subotica,Serbia
+Valjevo,Serbia
+Vranje,Serbia
+Zajecar,Serbia
+Zrenjanin,Serbia
