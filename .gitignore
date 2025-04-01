@@ -21,3 +21,4 @@ docker-backup.tar.gz
 # Python cache
 __pycache__/
 *.pyc
+.env
